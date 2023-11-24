@@ -1,0 +1,5 @@
+const API_URL = process.env.REACT_APP_API_URL
+const EXTERNAL_PATH = process.env.REACT_APP_EXTERNAL_PATH
+const SERVER_URL = process.env.REACT_APP_SERVER_URL; 
+
+export {API_URL, EXTERNAL_PATH, SERVER_URL}
